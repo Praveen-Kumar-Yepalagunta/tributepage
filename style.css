@@ -1,0 +1,51 @@
+body {
+  font-family:system-ui;
+  background: white;
+  color: white;
+  text-align:center;
+
+}
+ h1{
+
+  max-width:100%;
+  background-color:black;
+  font-size:80px;
+   margin:20px
+}
+
+li{
+
+  display:inline;
+ padding:90px;
+
+}
+h3{
+  padding:40px;
+  color:black;
+  text-indent:90px;
+  text-align:left;
+}
+p{
+  text-indent:90px;
+}
+h2{
+  color:black;
+  padding:5px;
+}
+#img-div{
+  background:orangered ;
+  padding: 10px;
+  margin: 0;
+
+}
+img{
+  max-width:100%;
+  display:block;
+  width:1000px;
+  height:auto;
+  margin:auto;
+}
+h4{
+  color:black;
+  font-size:16px;
+}
